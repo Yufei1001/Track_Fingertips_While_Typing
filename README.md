@@ -1,3 +1,3 @@
 # Track_Fingertips_While_Typing
 
-<video src='https://github.com/Yufei1001/Track_Fingertips_While_Typing/assets/138631522/e29eade6-9ccc-4d33-a077-6aa06cc63e84' width=180/>
+https://github.com/Yufei1001/Track_Fingertips_While_Typing/assets/138631522/285fe633-5f79-4f5a-af42-e8c4c30eb067
